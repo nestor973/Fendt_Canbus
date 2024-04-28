@@ -7,7 +7,7 @@ The KBus can most easely be found in the infotainment module in the roof, if the
 radio present this connector (A181) has a blue subconnecter where the KBus yellow and green wires are 
 freely present. There is no separate KBus connector like in the older SCR/S4 models.
 
-Put the .INO code on the arduino and plug it in. fire up the software on window, choose the serial
+Put the .INO code on the arduino and plug it in. fire up the software on windows, choose the serial
 port and hit 'connect' . All the unique CAN ID's will be filling up the box on the left. Just wait
 at least a minute before the counter stops increasing, don't touch anything. 
 
