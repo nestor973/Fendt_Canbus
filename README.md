@@ -1,5 +1,5 @@
 # Fendt_Canbus
-A canbus sniffer for Fendt tractors (and others)
+A canbus sniffer for Fendt tractors , SCR, S4 , ONE  (and possibly others brands)
 
 Usage : tested with Arduino UNO with a MCP2515 board connected, no 120 ohm resistor.
 
